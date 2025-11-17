@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Sarah Johnson",
+    "email": "sarah@example.com",
+    "password": "password123",
+    "age": 22,
+    "gender": "Female",
+    "budget": 6000,
+    "location": "Mumbai",
+    "bio": "Looking for a clean roommate"
+  }
+]
